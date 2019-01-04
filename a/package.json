@@ -1,0 +1,17 @@
+{
+  "name": "pnpm-keyv",
+  "version": "1.0.0",
+  "description": "Repro repo",
+  "main": "index.js",
+  "keywords": [
+    "bug",
+    "pnpm",
+    "keyv"
+  ],
+  "author": "dandv",
+  "license": "MIT",
+  "dependencies": {
+    "@keyv/mongo": "^1.0.4",
+    "keyv": "^3.1.0"
+  }
+}
